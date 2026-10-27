@@ -1,0 +1,23 @@
+{
+  "releases": [
+    {
+      "version": "1.0.0",
+      "changelogContent": "Initial fixture release."
+    },
+    {
+      "version": "1.1.0",
+      "name": "First update",
+      "changelogContent": "Added the first fixture feature."
+    },
+    {
+      "version": "1.2.0",
+      "name": "Second update",
+      "changelogContent": "Added the second fixture feature."
+    },
+    {
+      "version": "1.3.0",
+      "name": "Target release",
+      "changelogContent": "Added the target fixture feature."
+    }
+  ]
+}
